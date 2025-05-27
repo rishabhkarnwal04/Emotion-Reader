@@ -57,29 +57,7 @@ Launch the app using Streamlit:
 streamlit run dashboard.py
 ```
 
-Then visit [http://localhost:8501](http://localhost:8501) in your browser.
-
 ---
-
-## 📋 Requirements
-
-```
-streamlit
-opencv-python
-fer
-deepface
-tensorflow
-mtcnn
-```
-
-Install manually if needed:
-
-```bash
-pip install streamlit opencv-python fer deepface tensorflow mtcnn
-```
-
----
-
 
 ## 🧠 Model Details
 
